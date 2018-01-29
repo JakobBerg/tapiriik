@@ -115,6 +115,7 @@ DeviceIdentifier.AddIdentifierGroup(*_garminIdentifier("Tempe", 1570))
 DeviceIdentifier.AddIdentifierGroup(*_garminIdentifier("VIRB Elite", 1735)) # Where's the VIRB Proletariat?
 DeviceIdentifier.AddIdentifierGroup(*_garminIdentifier("Edge Touring", 1736))
 DeviceIdentifier.AddIdentifierGroup(*_garminIdentifier("HRM Run", 1752))
+DeviceIdentifier.AddIdentifierGroup(*_garminIdentifier("HRM Tri", 1743))
 DeviceIdentifier.AddIdentifierGroup(*_garminIdentifier("SDM4", 10007))
 DeviceIdentifier.AddIdentifierGroup(*_garminIdentifier("Training Center", 20119))
 
